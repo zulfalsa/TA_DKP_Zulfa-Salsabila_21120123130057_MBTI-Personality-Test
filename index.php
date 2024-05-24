@@ -604,37 +604,37 @@
                 <br><br>
                 <?php
                     if ($mbtiType == 'ISTJ') {
-                        echo '<img src="istj.png" alt="ISTJ">';
+                        echo '<img src="img/istj.png" alt="ISTJ">';
                     } elseif ($mbtiType == 'ISFJ') {
-                        echo '<img src="isfj.png" alt="ISFJ">';
+                        echo '<img src="img/isfj.png" alt="ISFJ">';
                     } elseif ($mbtiType == 'INFJ') {
-                        echo '<img src="infj.png" alt="INFJ">';
+                        echo '<img src="img/infj.png" alt="INFJ">';
                     } elseif ($mbtiType == 'INTJ') {
-                        echo '<img src="intj.png" alt="INTJ">';
+                        echo '<img src="img/intj.png" alt="INTJ">';
                     } elseif ($mbtiType == 'ISTP') {
-                        echo '<img src="istp.png" alt="ISTP">';
+                        echo '<img src="img/istp.png" alt="ISTP">';
                     } elseif ($mbtiType == 'ISFP') {
-                        echo '<img src="isfp.png" alt="ISFP">';
+                        echo '<img src="img/isfp.png" alt="ISFP">';
                     } elseif ($mbtiType == 'INFP') {
-                        echo '<img src="infp.png" alt="INFP">';
+                        echo '<img src="img/infp.png" alt="INFP">';
                     } elseif ($mbtiType == 'INTP') {
-                        echo '<img src="intp.png" alt="INTP">';
+                        echo '<img src="img/intp.png" alt="INTP">';
                     } elseif ($mbtiType == 'ESTP') {
-                        echo '<img src="estp.png" alt="ESTP">';
+                        echo '<img src="img/estp.png" alt="ESTP">';
                     } elseif ($mbtiType == 'ESFP') {
-                        echo '<img src="esfp.png" alt="ESFP">';
+                        echo '<img src="img/esfp.png" alt="ESFP">';
                     } elseif ($mbtiType == 'ENFP') {
-                        echo '<img src="enfp.png" alt="ENFP">';
+                        echo '<img src="img/enfp.png" alt="ENFP">';
                     } elseif ($mbtiType == 'ENTP') {
-                        echo '<img src="entp.png" alt="ENTP">';
+                        echo '<img src="img/entp.png" alt="ENTP">';
                     } elseif ($mbtiType == 'ESTJ') {
-                        echo '<img src="estj.png" alt="ESTJ">';
+                        echo '<img src="img/estj.png" alt="ESTJ">';
                     } elseif ($mbtiType == 'ESFJ') {
-                        echo '<img src="esfj.png" alt="ESFJ">';
+                        echo '<img src="img/esfj.png" alt="ESFJ">';
                     } elseif ($mbtiType == 'ENFJ') {
-                        echo '<img src="enfj.png" alt="ENFJ">';
+                        echo '<img src="img/enfj.png" alt="ENFJ">';
                     } elseif ($mbtiType == 'ENTJ') {
-                        echo '<img src="entj.png" alt="ENTJ">';
+                        echo '<img src="img/entj.png" alt="ENTJ">';
                     }
                 ?>
                 <div class="function">
