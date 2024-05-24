@@ -1,0 +1,201 @@
+h1 {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    color: #edf7fc;
+    background-color: #50b8e7;
+    padding: 20px;
+}
+
+h2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    color: #1d6789;
+}
+
+a {
+    font-family: "Montserrat", sans-serif;
+    height: 30px;
+    font-size: x-large;
+    text-align: center;
+    background-color: #edf7fc;
+    color: #1d6789;
+    border: 2px solid #1d6789;
+    cursor: pointer;
+    margin: 0 auto;
+    border-radius: 8px;
+    width: fit-content;
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: inline-block;
+}
+
+a:hover {
+    background: #1d6789;
+    color: #edf7fc;
+    top: 0;
+}
+
+textarea {
+    width: 800px;
+    height: 315px;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    float: right;
+    position: relative;
+    bottom: 295px;
+    right: 50px;
+    border: 2px solid #0f445d;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 32.5%;
+}
+
+.input {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    text-align: center;
+    color: #0f445d;
+    font-size: 20px;
+}
+
+.btn-submit {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: x-large;
+    text-align: center;
+    background-color: #edf7fc;
+    color: #50b8e7;
+    border: 2px solid #50b8e7;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+
+.btn-submit:hover {
+    background: #50b8e7;
+    color: #edf7fc;
+}
+
+.attention {
+    font-family: "Poppins", sans-serif;
+    color: #edf7fc;
+    text-align: center;
+    padding: 30px;
+    background-color: #50b8e7;
+    margin: none;
+}
+
+.attention label {
+    border: 100px;
+    padding: 7px;
+    background-color: #dcf0fa;
+    color: #0f445d;
+    border-radius: 8px;
+}
+
+.radio-input1 {
+    appearance: none;
+    outline: 2px solid #780e55;
+    outline-offset: 2px;
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.radio-input1:checked {
+    background-color: #780e55;
+}
+
+.radio-input1:hover {
+    background-color: #780e55;
+}
+
+.radio-input2 {
+    appearance: none;
+    outline: 2px solid #808080;
+    outline-offset: 2px;
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.radio-input2:checked {
+    background-color: #808080;
+}
+
+.radio-input2:hover {
+    background-color: #808080;
+}
+
+.radio-input3 {
+    appearance: none;
+    outline: 2px solid #fada5e;
+    outline-offset: 2px;
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.radio-input3:checked {
+    background-color: #fada5e;
+}
+
+.radio-input3:hover {
+    background-color: #fada5e;
+}
+
+.details {
+    text-align: left;
+    color: #edf7fc;
+    padding: 30px;
+    background-color: #50b8e7;
+    margin: none;
+
+}
+
+.details label {
+    font-family: "Poppins", sans-serif;
+    border: 100px;
+    padding: 7px;
+    background-color: #dcf0fa;
+    color: #0f445d;
+    border-radius: 8px;
+}
+
+.wonder select{
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    padding: 7px;
+    color: #50b8e7;
+    background-color: #edf7fc;
+    border: 2px solid #50b8e7;
+    border-radius: 8px;
+    display: block;
+    text-align: center;
+    margin: 7px auto;
+}
+
+.wonder label {
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    border: 100px;
+    padding: 7px;
+    background-color: #dcf0fa;
+    color: #0f445d;
+    border-radius: 8px;
+    margin: 8px;
+}
